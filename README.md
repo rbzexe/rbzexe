@@ -1,5 +1,5 @@
 ![logo](https://github.com/adityasharma-ach/adityasharma-ach/blob/main/banner)
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h1 align="center">Hi 👋, I'm Rohit Bisht</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.schoolofit.co.za/wp-content/uploads/2018/06/How-to-become-a-web-developer.gif">
@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.adityaportfolio.rishikeshmagic.com/)
 
-- 📫 How to reach me **adityasharmarut7@gmail.com**
+- 📫 How to reach me **animeboy252003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/2/folders/18YHCwrJeJN75ORN2W8cWlFSphDz0Afft](https://drive.google.com/drive/u/2/folders/18YHCwrJeJN75ORN2W8cWlFSphDz0Afft)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
